@@ -27,8 +27,8 @@ const HomePage = () => {
         const options = {
             method: 'GET',
             headers: {
-                'x-rapidapi-key': 'e9f7ebe0d3mshf9734858a20a157p193e20jsn76b6dc57bb0d',
-                'x-rapidapi-host': 'weatherapi-com.p.rapidapi.com'
+                'x-rapidapi-key': '',
+                'x-rapidapi-host': '
             }
         };
 
